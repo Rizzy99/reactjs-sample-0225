@@ -1,0 +1,19 @@
+.taskCard {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+    cursor: pointer;
+    border-radius: 8px;
+    background-color: white;
+}
+
+.taskTitle {
+    font-weight: bold;
+}
+
+.taskDetails {
+    margin-top: 5px;
+    color: gray;
+    font-size: 14px;
+}
+

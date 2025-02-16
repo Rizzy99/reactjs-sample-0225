@@ -1,0 +1,25 @@
+.dashboard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.dashboard header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #0044cc;
+    padding: 15px 20px;
+    color: white;
+    font-size: 1.5rem;
+}
+
+.dashboard .taskContainer {
+    width: 80%;
+    max-width: 800px;
+    margin-top: 20px;
+}
+
