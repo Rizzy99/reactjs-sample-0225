@@ -1,4 +1,3 @@
- HEAD
 # reactjs-sample-0225
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
@@ -17,7 +16,7 @@ pnpm dev
 bun dev
 ```
 
-Open [Vercel]([http://localhost:3000](https://vercel.com/login?next=%2Fsso-api%3Furl%3Dhttps%253A%252F%252Ftask-board-45ex12veg-rizzy99s-projects.vercel.app%252F%26nonce%3Dd04b62fd0baa7d3c30f5792cabfe0d1e7773165d3fc81707a5809fa0858daab4)) with your browser to see the result.
+Open [Vercel]([https://task-board-45ex12veg-rizzy99s-projects.vercel.app/]) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
